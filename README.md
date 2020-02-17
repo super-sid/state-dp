@@ -1,4 +1,5 @@
 # Global State using Eventemitter
+Tried to implement Global state using eventemitter and Command + Observer Pattern.
 
 ## Available Scripts
 
